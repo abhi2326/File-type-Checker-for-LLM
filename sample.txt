@@ -1,0 +1,3 @@
+This is a sample text file.
+It contains multiple lines of simple text.
+Used for testing LLM processing efficiency.
